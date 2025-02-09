@@ -1,6 +1,6 @@
 variable "region" {
-    description = "The region for deploying the infrastructure"
-    default = "us-west-2"
+  description = "The region for deploying the infrastructure"
+  default     = "us-west-2"
 }
 
 variable "instance_type" {
